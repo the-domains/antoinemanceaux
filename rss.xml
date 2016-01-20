@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AntoineManceaux]]></title>
         <description><![CDATA[AntoineManceaux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antoinemanceaux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 21:28:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 21:31:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antoinemanceaux/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27163cf7-32cc-4653-a430-64f22620e387.png">]]></description>
-            <link>undefined56680358-177e-46fd-80a8-e07e669fdb56/index.html</link>
+            <title><![CDATA[ANTOINE MANCEAUX]]></title>
+            <description><![CDATA[<article><h1>ANTOINE MANCEAUX</h1><p>http://vimeo.com/148292181</p></article>]]></description>
+            <link>https://thegrid.ai/antoinemanceaux/56680358-177e-46fd-80a8-e07e669fdb56/index.html</link>
             <guid isPermaLink="false">56680358-177e-46fd-80a8-e07e669fdb56</guid>
-            <pubDate>Wed, 20 Jan 2016 21:27:53 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 21:31:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
