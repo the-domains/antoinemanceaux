@@ -1,6 +1,6 @@
 name: AntoineManceaux
 favicon: null
-layout_spectrum: 0.653633720939979
+layout_spectrum: 1
 typography_spectrum: 0.27221
 title: ANTOINE MANCEAUX  /  DIRECTOR
 cta:
@@ -22,7 +22,7 @@ color:
     - '#779bc2'
     - '#bbeeff'
     - '#a1c3e7'
-  brandStrength: 0.3125
+  brandStrength: 0.125
   lightness: 0.8119371908251196
   saturation: 0.5816762857139111
   rhythmicContrast: 0.991645151283592
